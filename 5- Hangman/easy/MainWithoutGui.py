@@ -6,7 +6,7 @@ list_of_word = [
     'midnigh', 'obligatio', 'pizz', 'platfor', 'poe', 'recognitio', 'shir', 'si', 'speake', 'strange', 'surger', 'sympath', 'tal', 'throa', 'traine', 'uncl', 'yout', 'time']
 
 rndm_word = random.choice(list_of_word)
-print(rndm_word)
+#print(rndm_word) # for test 
 
 ltr_chs = (len(rndm_word)*2)+1
 alpha = 'qwertzuiopasdfghjklyxcvbnm'
