@@ -8,7 +8,7 @@ Pasteur Institute for vaccinations,05 22 26 20 26,
 abdellah ahbar,0640662954,
 Mondial Assistance,05 22 97 47 47,
 Train station info,08 90 20 30 40,
-National airport office,05 22 53 90 40  OR  05 22 53 91 40,
-British Embassy in Rabat,+212 537 63 33 33 OR +212 537 63 33 66,
+National airport office,05 22 53 90 40 \n OR \n 05 22 53 91 40,
+British Embassy in Rabat,+212 537 63 33 33 \n OR \n +212 537 63 33 66,
 
 hamza,0101010101101
