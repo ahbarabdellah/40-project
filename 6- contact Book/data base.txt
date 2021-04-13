@@ -1,0 +1,14 @@
+Ambulance,150,
+Directory enquiries,160,
+Gendarmerie Royale,177,
+Fire brigade,15,
+SOS Medecins 24/24,05 22 98 98 98,
+Anti-poison centre,081 00 01 80,
+Pasteur Institute for vaccinations,05 22 26 20 26,
+abdellah ahbar,0640662954,
+Mondial Assistance,05 22 97 47 47,
+Train station info,08 90 20 30 40,
+National airport office,05 22 53 90 40  OR  05 22 53 91 40,
+British Embassy in Rabat,+212 537 63 33 33 OR +212 537 63 33 66,
+
+hamza,0101010101101
